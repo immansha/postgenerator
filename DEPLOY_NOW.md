@@ -60,7 +60,7 @@ After deployment completes:
 4. Paste this into the secrets editor:
 
 ```toml
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_groq_api_key_here"
 ```
 
 5. Click **Save**

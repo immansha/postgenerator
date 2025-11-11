@@ -37,7 +37,7 @@ Once deployment is complete:
 4. Paste this exactly:
 
 ```toml
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_groq_api_key_here"
 ```
 
 5. Click **"Save"**

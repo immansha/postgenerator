@@ -49,7 +49,7 @@ git push -u origin main
 2. Click **Secrets**
 3. Paste your secrets in the **Secrets** tab:
 ```toml
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_groq_api_key_here"
 ```
 
 ---
