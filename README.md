@@ -1,6 +1,6 @@
 # *LinkedIn Post Generator with AI*  
 
-🚀 *Generate engaging LinkedIn posts tailored to your writing style using AI!*  
+🚀*Generate engaging LinkedIn posts tailored to your writing style using AI!*  
 
 This tool analyzes your past LinkedIn posts and generates new content matching your preferred *topic, length, and language* (English/Hinglish) using *Llama-3 via Groq API*.  
 
